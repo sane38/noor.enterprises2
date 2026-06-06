@@ -48,7 +48,10 @@ nav a:hover{
     color:#2196f3;
 }
 
-/* HERO */
+/* HERO */.hero {
+  background: url("./hero.jpg") center/cover no-repeat;
+  height: 100vh;
+}
 
 .hero{
     min-height:100vh;
